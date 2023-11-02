@@ -1,3 +1,7 @@
+//Q. Given an array of integers and an integer 'k', rotate the array to the right by 'k' steps. However, there's a twist!
+//You are only allowed to use a constant amount of extra space, i.e., O(1) extra space.
+//Your solution should be able to handle both positive and negative values of 'k'. Please provide a Java program that accomplishes this task.
+
 public class RotateArray {
 
     public static void main(String[] args) {
